@@ -51,7 +51,7 @@ export const ModalContent = styled.div`
     font-size: 16px;
     font-weight: 600;
   }
-
+`
 
 export const ModalButtons = styled.div`
   display: flex;
@@ -85,6 +85,7 @@ export const TitleModal = styled.h2`
     line-height: normal;
     padding-top: 25px;
   }
+`
 
 export const LabelModal = styled.h3`
   font-size: 24px;
